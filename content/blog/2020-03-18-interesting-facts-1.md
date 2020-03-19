@@ -1,7 +1,7 @@
 ---
 title: 'Interesting facts #1'
 date: 2020-03-18T16:44:02.229Z
-description: Home of the interesting facts
+description: Home of the interesting SHITS
 ---
 
 ```javascript
